@@ -1,6 +1,6 @@
 # desafio_app_labsec
 
-A new Flutter project.
+Esse aplicatico faz parte do desafio do LABsec UFSC.
 
 ## Getting Started
 
